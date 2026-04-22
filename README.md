@@ -17,5 +17,6 @@ CSS
 JavaScript
 OpenWeather API
 
-Scrrenshot
-images/output.png
+## Screenshot
+
+![Weather App ](images/output.png)
